@@ -7,4 +7,4 @@ come decodificare un .apk su windows scarica la repository (premi code tatsto ve
 <p>4: Quello che puoi fare adesso, è copiare in una nuova cartella il file apk del gioco/app che vuoi decompilare, in modo da avere tutto a portata di mano.</p>
 <p>5: nel percorso es: C:\Users\nome account\Desktop\decodificatore-un-apk\ seleziona e scrivi cmd e poi premi invio</p>
 <p>6: dentro al CMD di windows digita "apktool d nome del programma.apk" guarda screen</p>
-<img src="https://github.com/ArduinoDenis/decompilare-un-apk/blob/976fe1f7dae63563d5f6370788ab38e901b934d7/cmd.png" alt="foto">
+<img src="https://github.com/ArduinoDenis/decompilare-un-apk/blob/6bdc70708eb5926d087ef475840dd0da7312da62/cmd.png" alt="foto">
