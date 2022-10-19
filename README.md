@@ -1,5 +1,5 @@
 # decodificare un apk
-come decodificare un .apk su windows scarica la repository (premi code tatsto verde e premi download zip)
+come decodificare un .apk su windows scarica la repository (premi code tasto verde e premi download zip)
 <h3>passaggi</h3>
 <p>1: scaricare <a href="https://bitbucket.org/iBotPeaches/apktool/downloads/">apktool</a></p>
 <p>2: rinomina il file e chiamalo apktool.jar</p>
