@@ -1,10 +1,32 @@
-# decodificare un apk
-come decodificare un .apk su windows scarica la repository (premi code tasto verde e premi download zip)
-<h3>passaggi</h3>
-<p>1: scaricare <a href="https://bitbucket.org/iBotPeaches/apktool/downloads/">apktool</a></p>
-<p>2: rinomina il file e chiamalo apktool.jar</p>
-<p>3: fai doppio clic sul file apktool.bat</p>
-<p>4: Quello che puoi fare adesso, è copiare in una nuova cartella il file apk del gioco/app che vuoi decompilare, in modo da avere tutto a portata di mano.</p>
-<p>5: nel percorso es: C:\Users\nome account\Desktop\decodificatore-un-apk\ seleziona e scrivi cmd e poi premi invio</p>
-<p>6: dentro al CMD di windows digita "apktool d nome del programma.apk" guarda screen</p>
-<img src="https://github.com/ArduinoDenis/decompilare-un-apk/blob/6bdc70708eb5926d087ef475840dd0da7312da62/cmd.png" alt="foto">
+# decompilare un apk
+# istruzioni
+
+1. scaricare i files
+
+```bash
+git clone https://github.com/ArduinoDenis/decompilare-un-apk.git
+```
+
+2. scaricare il decompilatore
+
+- [scarica il decompilatore](https://bitbucket.org/iBotPeaches/apktool/downloads/)
+
+3. rinomina il file e chiamalo apktool.jar
+
+4. fai doppio clic sul file apktool.bat
+
+5. copiare in una nuova cartella il file apk del gioco/app che vuoi decompilare
+
+6. apri l'esplora file 
+
+7. vai nel percorso del file che vuoi decompilare
+
+8. esempio: C:\Users\nome account\Desktop\decompilare-un-apk\
+
+9. nella barra degli indirizzi che si trova in alto fare un clic sinistro e scrivi cmd e poi premi invio
+
+10. dentro al CMD di windows digita "apktool d nome del programma.apk" 
+
+## guarda lo screen per aiutarti con la procedura
+
+![foto1](https://github.com/ArduinoDenis/decompilare-un-apk/blob/6bdc70708eb5926d087ef475840dd0da7312da62/cmd.png)
