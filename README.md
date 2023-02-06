@@ -4,7 +4,7 @@
 1. scaricare i files
 
 ```bash
-git clone https://github.com/ArduinoDenis/decompilare-un-apk.git
+git clone https://github.com/ArduinoDenis/decompilare_un_apk.git
 ```
 
 2. scaricare il decompilatore
@@ -21,7 +21,7 @@ git clone https://github.com/ArduinoDenis/decompilare-un-apk.git
 
 7. vai nel percorso del file che vuoi decompilare
 
-8. esempio: C:\Users\nome account\Desktop\decompilare-un-apk\
+8. esempio: C:\Users\nome account\Desktop\decompilare_un_apk\
 
 9. nella barra degli indirizzi che si trova in alto fare un clic sinistro e scrivi cmd e poi premi invio
 
@@ -29,4 +29,4 @@ git clone https://github.com/ArduinoDenis/decompilare-un-apk.git
 
 ## guarda lo screen per aiutarti con la procedura
 
-![foto1](https://github.com/ArduinoDenis/decompilare-un-apk/blob/6bdc70708eb5926d087ef475840dd0da7312da62/cmd.png)
+![foto1](https://github.com/ArduinoDenis/decompilare_un_apk/blob/6bdc70708eb5926d087ef475840dd0da7312da62/cmd.png)
